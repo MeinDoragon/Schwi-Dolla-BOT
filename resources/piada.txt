@@ -1,0 +1,5 @@
+. piada1 
+piada2 
+piada3 
+piada4 
+piada5

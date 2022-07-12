@@ -1,0 +1,27 @@
+{
+  "name": "Discord-Bot-Maker-Bot",
+  "author": "Robert Borghese",
+  "main": "bot.js",
+  "version": "1.3.0-beta.5",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^11.5.1",
+    "fstorm": "^0.1.3",
+    "google-it": "^1.5.0",
+    "jimp": "^0.9.6",
+    "jsonpath": "^1.0.2",
+    "libsodium-wrappers": "latest",
+    "nan": "^2.14.0",
+    "opentype": "^0.1.2",
+    "opentype.js": "^0.3.0",
+    "opusscript": "latest",
+    "replace-string": "^3.0.0",
+    "simple-get": "^3.1.0",
+    "simple-youtube-api": "^5.2.1",
+    "util": "^0.12.3",
+    "valid-url": "^1.0.9",
+    "youtube-search": "^1.1.4",
+    "ytdl-core": "^2.0.0"
+  },
+  "is-music-bot": true
+}
